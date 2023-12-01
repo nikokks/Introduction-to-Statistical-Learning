@@ -1,8 +1,8 @@
 # Introduction-to-Statistical-Learning
 
-## Links of the two books (R and python)
+## Free Links to download the book (R or Python)
 https://www.statlearning.com/
 
-## What is done in the repository
-- Demonstrations of statisical Formulas of the course
-- Developped answers of exercises
+## What is done in the repository ?
+- Illustrations of Statistical Formulas from the Course
+- Detailed Solutions to Exercises
